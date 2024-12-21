@@ -2,7 +2,7 @@
 
 AEye is a Burp Suite extension that integrates OpenAI's GPT model to analyze HTTP requests and responses, providing insights and payload suggestions. It helps penetration testers and security researchers streamline their workflow by leveraging AI to identify potential vulnerabilities and suggest targeted tests.
 
-![AEye Example](./aeye.png)
+![Alt text](./aeye.png)
 
 Note: AEye uses OpenAI's gpt-4o-mini by default. On a time-benefit measure, I've determined this to be the most useful. REMEMBER! These LLM tools take a while to respond.
 
